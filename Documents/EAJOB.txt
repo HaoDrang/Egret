@@ -1,0 +1,504 @@
+
+	
+Job Title: Art Specialist ¨C Environment
+Requisition ID 66882 - Posted 07/28/2015 - Regular - EA Studios - Operations - Art - Shanghai - Shanghai - China - Asia
+Environment Art Specialist
+
+Environment Art Specialists are responsible for the creation, revision, maintenance and support of digital world assets including buildings, vehicles, weapons, etc. in styles ranging from photo-realistic to cartoon and everything in between.  Environments include realistic open-world environments (i.e., Battlefield, Need for Speed), authentic sports arenas (i.e., FIFA, Madden), futuristic environments (i.e., Mass Effect), licensed properties (i.e., Simpsons, Harry Potter) and cartoon inspired worlds (i.e., PvZ) to name a few.  Artists working in environments are also responsible for the props that populate these worlds such as vehicles, foliage, weapons, etc.
+
+Environment specialists work closely with technical artists to ensure assets are exported properly through game pipelines and that assets are optimized for run-time platforms.
+Aesthetics /Art Skills
+
+Architecture and Functionality
+
+? STRONG knowledge of different architecture styles and rules
+
+(including forces/interactions, proportions, aesthetics, material
+
+usage and aging).
+
+? STRONG understanding of the mechanical functioning of
+
+things we are likely to build.
+
+ 
+
+Color and Composition
+
+? STRONG understanding of lighting and scene composition.
+
+? STRONG awareness of color theory and the emotional
+
+charge of colors. Able to suggest an effective color palette.
+
+ 
+
+Creativity and Design
+
+? STRONG ability to understand and follow a concept art brief.
+
+? PROFICIENT at researching and planning an asset before
+
+starting modeling.
+
+? PROFICIENT ability to suggest creative solutions in line with
+
+art direction when lacking sufficient concept art.
+
+? PROFICIENT ability to find additional reference to complement
+
+initial concept and reference material.
+
+ 
+
+Art Critique and Vocabulary
+
+? Is receptive to criticism and understands why corrections
+
+are needed.
+
+? Able to independently follow concept art and constructively
+
+challenge the AD if given tasks that do not follow the game style.
+
+? Able to review their own work based on concept art.
+
+? Able to give constructive criticism to peers.
+
+? Sufficient art- and technical-specific vocabulary to be able
+
+to understand advanced explanations and discuss contrasting
+
+art styles from other games or media.
+
+ 
+Types of Projects
+
+Production Experience
+
+? Has worked on more than two complete projects.
+
+? Able to take a section of the game environment from start
+
+to finish.
+
+ 
+
+Scope Of Responsibility / Ownership
+
+? Able to work independently and to produce high quality
+
+results.
+
+? Able to take on a complex section of a larger project,
+
+including props and architecture. (Textures consistent with
+
+color palette and style, budget respected, geo details put
+
+where needed, etc.)
+
+? Able to take ownership and propose visual and technical
+
+solutions to problems in their area.
+
+? Actively searches for better tools and processes for the team.
+
+ 
+Technical Skills
+
+3D Software Skills
+
+? EXPERT 3D skills (Maya/MAX): Able to deliver excellent
+
+models with little to no iteration. (Correct proportions, prop/
+
+building structure, accurate details, LOD accuracy, geo
+
+efficiency, etc.)
+
+? STRONG 3D skills in the other package. (Maya/Max)
+
+? PROFICIENT ZBrush ability.
+
+? Aware of good modeling practices and avoids building
+
+inefficient models.
+
+? PROFICIENT at optimizing scenes.
+
+? Able to create both organic and rigid models.
+
+? Uses extra software or plugins (if available) to improve
+
+efficiency.
+
+ 
+
+2D Software Skills
+
+? STRONG with Photoshop or a similar 2D package.
+
+? EXPERT texture skills: Able to deliver ¡°clean¡± textures in at
+
+least one style. (Good color and clarity, correct style and
+
+sharpness, good tiling, etc.)
+
+? STRONG texture skills in at least one other style.
+
+ 
+
+Texture and Shader Technique
+
+? STRONG UV space and unwrap abilities.
+
+? PROFICIENT alpha-transparency knowledge.
+
+? STRONG at reproducing various surface/material types.
+
+? STRONG at one texture creation method. (Photo retouch,
+
+build up, hand paint, procedural, etc.)
+
+? STRONG ability to create normal maps via different tools.
+
+? PROFICIENT knowledge of ambient occlusion.
+
+ 
+
+Technical Constraints
+
+? STRONG ability to provide AAA quality, while following technical
+
+constraints. (Naming convention, budgets, etc.)
+
+? PROFICIENT polygon optimization skills.
+
+ 
+
+Engines and Pipelines
+
+? STRONG knowledge of the environment creation process in a
+
+game engine.
+
+? STRONG ability to create collision geometry with correct
+
+settings.
+
+? FUNCTIONAL knowledge of lighting tools in the engine.
+
+? Able to suggest improvements on the existing tools.
+
+? Able to use shaders on at least one game engine.
+
+ 
+
+Multidisciplinary Knowledge / Game Design Specifics
+
+? PROFICIENT understanding of at least one game-related
+
+skill set outside of environment modeling. (Lighting,
+
+VFX, etc.)
+
+? FUNCTIONAL knowledge of gameplay mechanics and their
+
+impact on art production.
+
+ 
+Leadership/Team Behavior
+
+Time Management
+
+? Able to partner with peers to help them.
+
+? Able to provide reliable estimates for complex tasks.
+
+ 
+
+Mentoring / Team Player
+
+? Positive influence on team.
+
+? Mentors peers on specialized skills and helps onboard
+
+new staff.
+
+ 
+
+Workflow and Process
+
+? Able to follow work orders.
+
+? Able to suggest improvements to asset workflows.
+
+ 
+
+Leadership and Communication
+
+? Consultant on new tools and technology.
+
+ 
+English Language Capability
+
+Communication Skills
+
+? FUNCTIONAL English reading skill level: Able to write
+
+reasonable check-in notes and communicate with the game
+
+team via email with assistance of the AD or DD.
+
+ 
+Environment Art Specialist
+
+Environment Art Specialists are responsible for the creation, revision, maintenance and support of digital world assets including buildings, vehicles, weapons, etc. in styles ranging from photo-realistic to cartoon and everything in between.  Environments include realistic open-world environments (i.e., Battlefield, Need for Speed), authentic sports arenas (i.e., FIFA, Madden), futuristic environments (i.e., Mass Effect), licensed properties (i.e., Simpsons, Harry Potter) and cartoon inspired worlds (i.e., PvZ) to name a few.  Artists working in environments are also responsible for the props that populate these worlds such as vehicles, foliage, weapons, etc.
+
+Environment specialists work closely with technical artists to ensure assets are exported properly through game pipelines and that assets are optimized for run-time platforms.
+Aesthetics /Art Skills
+
+Architecture and Functionality
+
+? STRONG knowledge of different architecture styles and rules
+
+(including forces/interactions, proportions, aesthetics, material
+
+usage and aging).
+
+? STRONG understanding of the mechanical functioning of
+
+things we are likely to build.
+
+ 
+
+Color and Composition
+
+? STRONG understanding of lighting and scene composition.
+
+? STRONG awareness of color theory and the emotional
+
+charge of colors. Able to suggest an effective color palette.
+
+ 
+
+Creativity and Design
+
+? STRONG ability to understand and follow a concept art brief.
+
+? PROFICIENT at researching and planning an asset before
+
+starting modeling.
+
+? PROFICIENT ability to suggest creative solutions in line with
+
+art direction when lacking sufficient concept art.
+
+? PROFICIENT ability to find additional reference to complement
+
+initial concept and reference material.
+
+ 
+
+Art Critique and Vocabulary
+
+? Is receptive to criticism and understands why corrections
+
+are needed.
+
+? Able to independently follow concept art and constructively
+
+challenge the AD if given tasks that do not follow the game style.
+
+? Able to review their own work based on concept art.
+
+? Able to give constructive criticism to peers.
+
+? Sufficient art- and technical-specific vocabulary to be able
+
+to understand advanced explanations and discuss contrasting
+
+art styles from other games or media.
+
+ 
+Types of Projects
+
+Production Experience
+
+? Has worked on more than two complete projects.
+
+? Able to take a section of the game environment from start
+
+to finish.
+
+ 
+
+Scope Of Responsibility / Ownership
+
+? Able to work independently and to produce high quality
+
+results.
+
+? Able to take on a complex section of a larger project,
+
+including props and architecture. (Textures consistent with
+
+color palette and style, budget respected, geo details put
+
+where needed, etc.)
+
+? Able to take ownership and propose visual and technical
+
+solutions to problems in their area.
+
+? Actively searches for better tools and processes for the team.
+
+ 
+Technical Skills
+
+3D Software Skills
+
+? EXPERT 3D skills (Maya/MAX): Able to deliver excellent
+
+models with little to no iteration. (Correct proportions, prop/
+
+building structure, accurate details, LOD accuracy, geo
+
+efficiency, etc.)
+
+? STRONG 3D skills in the other package. (Maya/Max)
+
+? PROFICIENT ZBrush ability.
+
+? Aware of good modeling practices and avoids building
+
+inefficient models.
+
+? PROFICIENT at optimizing scenes.
+
+? Able to create both organic and rigid models.
+
+? Uses extra software or plugins (if available) to improve
+
+efficiency.
+
+ 
+
+2D Software Skills
+
+? STRONG with Photoshop or a similar 2D package.
+
+? EXPERT texture skills: Able to deliver ¡°clean¡± textures in at
+
+least one style. (Good color and clarity, correct style and
+
+sharpness, good tiling, etc.)
+
+? STRONG texture skills in at least one other style.
+
+ 
+
+Texture and Shader Technique
+
+? STRONG UV space and unwrap abilities.
+
+? PROFICIENT alpha-transparency knowledge.
+
+? STRONG at reproducing various surface/material types.
+
+? STRONG at one texture creation method. (Photo retouch,
+
+build up, hand paint, procedural, etc.)
+
+? STRONG ability to create normal maps via different tools.
+
+? PROFICIENT knowledge of ambient occlusion.
+
+ 
+
+Technical Constraints
+
+? STRONG ability to provide AAA quality, while following technical
+
+constraints. (Naming convention, budgets, etc.)
+
+? PROFICIENT polygon optimization skills.
+
+ 
+
+Engines and Pipelines
+
+? STRONG knowledge of the environment creation process in a
+
+game engine.
+
+? STRONG ability to create collision geometry with correct
+
+settings.
+
+? FUNCTIONAL knowledge of lighting tools in the engine.
+
+? Able to suggest improvements on the existing tools.
+
+? Able to use shaders on at least one game engine.
+
+ 
+
+Multidisciplinary Knowledge / Game Design Specifics
+
+? PROFICIENT understanding of at least one game-related
+
+skill set outside of environment modeling. (Lighting,
+
+VFX, etc.)
+
+? FUNCTIONAL knowledge of gameplay mechanics and their
+
+impact on art production.
+
+ 
+Leadership/Team Behavior
+
+Time Management
+
+? Able to partner with peers to help them.
+
+? Able to provide reliable estimates for complex tasks.
+
+ 
+
+Mentoring / Team Player
+
+? Positive influence on team.
+
+? Mentors peers on specialized skills and helps onboard
+
+new staff.
+
+ 
+
+Workflow and Process
+
+? Able to follow work orders.
+
+? Able to suggest improvements to asset workflows.
+
+ 
+
+Leadership and Communication
+
+? Consultant on new tools and technology.
+
+ 
+English Language Capability
+
+Communication Skills
+
+? FUNCTIONAL English reading skill level: Able to write
+
+reasonable check-in notes and communicate with the game
+
+team via email with assistance of the AD or DD.
+
+ 
