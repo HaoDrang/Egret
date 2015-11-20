@@ -35,6 +35,24 @@
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Architecture.cs" />
+    <Compile Include="BookSummaries.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="DifferenceBetweenGeners.cs" />
+    <Compile Include="FightingGames.cs" />
+    <Compile Include="FirstPerson.cs" />
+    <Compile Include="GameLogic.cs" />
+    <Compile Include="IComponentRequirements.cs" />
+    <Compile Include="MMOG.cs" />
+    <Compile Include="PlatformNThirdPerson.cs" />
+    <Compile Include="RacingGame.cs" />
+    <Compile Include="RequirementsForComponents.cs" />
+    <Compile Include="ReuseableComponents.cs" />
+    <Compile Include="RTSGame.cs" />
+    <Compile Include="TeamWork.cs" />
+    <Compile Include="TestCom.cs" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
